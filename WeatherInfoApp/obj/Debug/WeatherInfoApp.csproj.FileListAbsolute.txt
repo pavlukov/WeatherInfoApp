@@ -1,0 +1,11 @@
+F:\Prog\C#\WeatherInformerApp\WeatherInfoApp\WeatherInfoApp\bin\Debug\WeatherInfoApp.exe.config
+F:\Prog\C#\WeatherInformerApp\WeatherInfoApp\WeatherInfoApp\bin\Debug\WeatherInfoApp.exe
+F:\Prog\C#\WeatherInformerApp\WeatherInfoApp\WeatherInfoApp\bin\Debug\WeatherInfoApp.pdb
+F:\Prog\C#\WeatherInformerApp\WeatherInfoApp\WeatherInfoApp\obj\Debug\WeatherInfoApp.csprojResolveAssemblyReference.cache
+F:\Prog\C#\WeatherInformerApp\WeatherInfoApp\WeatherInfoApp\obj\Debug\WeatherInfoApp.Form1.resources
+F:\Prog\C#\WeatherInformerApp\WeatherInfoApp\WeatherInfoApp\obj\Debug\WeatherInfoApp.Properties.Resources.resources
+F:\Prog\C#\WeatherInformerApp\WeatherInfoApp\WeatherInfoApp\obj\Debug\WeatherInfoApp.csproj.GenerateResource.Cache
+F:\Prog\C#\WeatherInformerApp\WeatherInfoApp\WeatherInfoApp\obj\Debug\WeatherInfoApp.exe
+F:\Prog\C#\WeatherInformerApp\WeatherInfoApp\WeatherInfoApp\obj\Debug\WeatherInfoApp.pdb
+F:\Prog\C#\WeatherInformerApp\WeatherInfoApp\WeatherInfoApp\bin\Debug\Newtonsoft.Json.dll
+F:\Prog\C#\WeatherInformerApp\WeatherInfoApp\WeatherInfoApp\bin\Debug\Newtonsoft.Json.xml
